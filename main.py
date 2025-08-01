@@ -35,7 +35,11 @@ lagrede_rapporter = []
 
 app = FastAPI()
 app.add_middleware(SessionMiddleware, secret_key="en_valgfri_lang_nok_streng")
-locale.setlocale(locale.LC_ALL, 'nb_NO.UTF-8')
+try:
+    locale.setlocale(locale.LC_ALL, 'nb_NO.UTF-8')
+except locale.Error:
+    # Railway/Heroku har ikke nb_NO.UTF-8, bruk systemets default
+    locale.setlocale(locale.LC_ALL, '')
 
 USERS = {
     "Sondre": "MoldeGK",
