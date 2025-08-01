@@ -6,3 +6,4 @@ openpyxl
 pdfplumber
 python-multipart
 itsdangerous
+xlrd

@@ -43,7 +43,7 @@ except locale.Error:
 
 USERS = {
     "Sondre": "MoldeGK",
-    "Trond": "MoldeGK",
+    "Trond": "Jegergay",
     "Terje": "Accountor",
 }
 
