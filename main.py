@@ -63,7 +63,8 @@ def login_form():
                 min-height: 100vh;
                 margin: 0;
                 padding: 0;
-                background-image: url('https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80');
+                background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
+                url('https://moldegolf.no/files/images/archive/original/eikrembilde_premier-1.jpg');
                 background-size: cover;
                 background-position: center;
                 font-family: Arial, sans-serif;
