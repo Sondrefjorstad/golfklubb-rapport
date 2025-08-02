@@ -1,58 +1,18 @@
 [
   {
-    "rapportnavn": "Omsetning Juni 25.xls",
-    "filsti": "uploads\\20250801123543_Omsetning Juni 25.xls",
-    "kilde": "NyFaktura",
-    "dato": "2025-08-01 12:35",
-    "opplastet_av": "Sondre"
-  },
-  {
     "rapportnavn": "Molde Golfklubb_01.06.2025-30.06.2025.xlsx",
-    "filsti": "uploads\\20250801123553_Molde Golfklubb_01.06.2025-30.06.2025.xlsx",
+    "filsti": "uploads\\20250802160011_Molde Golfklubb_01.06.2025-30.06.2025.xlsx",
     "kilde": "Vipps",
-    "dato": "2025-08-01 12:35",
-    "opplastet_av": "Sondre"
+    "dato": "2025-08-02 16:00",
+    "opplastet_av": "Sondre",
+    "måned": "Juni"
   },
   {
-    "rapportnavn": "100035923_Payout_Details_NOK_2025-06-01_2025-06-30.xls",
-    "filsti": "uploads\\20250801123601_100035923_Payout_Details_NOK_2025-06-01_2025-06-30.xls",
+    "rapportnavn": "Molde Golfklubb_01.05.2025-31.05.2025.xlsx",
+    "filsti": "uploads\\20250802160020_Molde Golfklubb_01.05.2025-31.05.2025.xlsx",
     "kilde": "Vipps",
-    "dato": "2025-08-01 12:36",
-    "opplastet_av": "Sondre"
-  },
-  {
-    "rapportnavn": "100035923_Payout_Details_NOK_2025-06-01_2025-06-30.xls",
-    "filsti": "uploads\\20250801123607_100035923_Payout_Details_NOK_2025-06-01_2025-06-30.xls",
-    "kilde": "Nets",
-    "dato": "2025-08-01 12:36",
-    "opplastet_av": "Sondre"
-  },
-  {
-    "rapportnavn": "Payment report 01-06-2025_30-06-2025.xlsx",
-    "filsti": "uploads\\20250801123622_Payment report 01-06-2025_30-06-2025.xlsx",
-    "kilde": "Golfmore",
-    "dato": "2025-08-01 12:36",
-    "opplastet_av": "Sondre"
-  },
-  {
-    "rapportnavn": "Balance_Summary_NOK_2025-06-01_to_2025-06-30_UTC.csv",
-    "filsti": "uploads\\20250801123630_Balance_Summary_NOK_2025-06-01_to_2025-06-30_UTC.csv",
-    "kilde": "Stripe",
-    "dato": "2025-08-01 12:36",
-    "opplastet_av": "Sondre"
-  },
-  {
-    "rapportnavn": "report_33129_20250611.pdf",
-    "filsti": "uploads\\20250801123642_report_33129_20250611.pdf",
-    "kilde": "Nayax",
-    "dato": "2025-08-01 12:36",
-    "opplastet_av": "Sondre"
-  },
-  {
-    "rapportnavn": "statistics-18.xlsx",
-    "filsti": "uploads\\20250801123654_statistics-18.xlsx",
-    "kilde": "Eagl",
-    "dato": "2025-08-01 12:36",
-    "opplastet_av": "Sondre"
+    "dato": "2025-08-02 16:00",
+    "opplastet_av": "Sondre",
+    "måned": "Mai"
   }
 ]
